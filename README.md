@@ -23,3 +23,4 @@ The code is optimized to run in Google Colab. Each cell is documented and can be
 
 ## Data
 Data comes from ENOE 2024 (third quarter) and is publicly available through INEGI.
+https://en.www.inegi.org.mx/datosabiertos/
